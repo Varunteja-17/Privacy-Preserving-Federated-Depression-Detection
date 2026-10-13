@@ -1,0 +1,31 @@
+Service Provider
+
+Login,
+Train & Test Social Text Data Sets, 
+View Social Text Data Sets Trained and Tested Accuracy in Bar Chart, 
+View Social Text Data Sets Trained and Tested Accuracy Results, 
+View Prediction Of Social Text Type View Social Text Type Ratio, 
+Download Predicted Data Sets, 
+View Social Text Type Ratio Results, 
+View All Remote Users.
+
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT DEPRESSION TYPE,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+ridno,
+post_id,
+text,
+Prediction.
+
+
+
+
+

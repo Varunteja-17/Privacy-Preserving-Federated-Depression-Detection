@@ -1,0 +1,28 @@
+Privacy Preserving Federated Depression Detection From Multisource Mobile Health Data
+
+Federated learning, Depression, Data privacy,Mobile device.
+
+IEEE Transactions on Industrial Informatics,Volume:18,Issue:7,Issue Date:July.2022
+
+
+
+
+
+Privacy_Preserving_Federated_Depression_Detection
+
+
+
+privacy_preserving_federated_depression_detection
+
+
+
+depression_detection
+
+
+ridno
+post_id
+text
+Prediction
+
+
+
